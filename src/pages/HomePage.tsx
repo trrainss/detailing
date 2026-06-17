@@ -41,15 +41,15 @@ const GALLERY_IMAGES = [
     caption: 'Полировка кузова',
   },
   {
-    src: 'https://images.pexels.com/photos/3729464/pexels-photo-3729464.jpeg?auto=compress&cs=tinysrgb&w=600',
+    src: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoV8aYzoBQydqBhTTAKWwTI0kwpzcGA_vqdds3MJ1sd3yGJnsRtFouAL0&s=10',
     caption: 'Нанокерамика',
   },
   {
-    src: 'https://images.pexels.com/photos/3965506/pexels-photo-3965506.jpeg?auto=compress&cs=tinysrgb&w=600',
+    src: 'https://spb.okleyka.pro/upload/iblock/caf/xpyg42rb0fjcnjstz9q7o0qq7ff83tqp/3.jpg',
     caption: 'Химчистка салона',
   },
   {
-    src: 'https://images.pexels.com/photos/4216098/pexels-photo-4216098.jpeg?auto=compress&cs=tinysrgb&w=600',
+    src: 'https://autokaitsekile.ee/assets/wmremove-transformed-Z1qsJkJt.jpeg',
     caption: 'Защитная пленка PPF',
   },
 ];
