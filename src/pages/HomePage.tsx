@@ -37,7 +37,7 @@ const iconMap: Record<string, React.ReactNode> = {
 
 const GALLERY_IMAGES = [
   {
-    src: 'https://images.pexels.com/photos/3802510/pexels-photo-3802510.jpeg?auto=compress&cs=tinysrgb&w=600',
+    src: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUcKj6xtifc8vTsjZb3nuniYxsmWW1i9hXa7oNK1XArdsahK6SHJBEFIw&s=10',
     caption: 'Полировка кузова',
   },
   {
