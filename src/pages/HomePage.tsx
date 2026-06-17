@@ -89,7 +89,7 @@ export function HomePage() {
       <section className="hero-section">
         <div className="hero-overlay" />
         <img
-          src="https://images.pexels.com/photos/3802510/pexels-photo-3802510.jpeg?auto=compress&cs=tinysrgb&w=800"
+          src="https://bluestarcardetailing.com.au/wp-content/uploads/2024/01/cardetailingcolumbusohio.jpeg"
           alt="Детейлиннг авто"
           className="hero-bg-img"
         />
