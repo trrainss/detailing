@@ -55,8 +55,8 @@ const GALLERY_IMAGES = [
 ];
 
 const STATS = [
-  { value: '100', label: 'Лет опыта' },
-  { value: '2000+', label: 'Авто обслужено' },
+  { value: '2', label: 'Лет опыта' },
+  { value: '100+', label: 'Авто обслужено' },
   { value: '100%', label: 'Гарантия качества' },
 ];
 
