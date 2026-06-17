@@ -221,7 +221,7 @@ export function HomePage() {
               <ChevronRight size={16} className="social-link-arrow" />
             </a>
             <a
-              href="https://t.me/stmdetailminsk"
+              href="https://t.me/stmdetailingminsk"
               target="_blank"
               rel="noopener noreferrer"
               className="social-link-btn"
